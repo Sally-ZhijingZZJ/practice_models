@@ -1,1 +1,20 @@
+The model followed tutorial https://www.youtube.com/watch?v=tEV_Jtmx2cc&t=498s with dataset:https://huggingface.co/datasets/Ozziey/poems_dataset
+
+The original model from tut only generates text without any symbols since it selects only words.
+The very first try of this model was with a dataset I created with short stories by H.P.Lovecraft and Edgar Allan Poe with regex expression to match all symbols when tokenize. But the generated texts still doesn't contain any symbols. Then I tried with Tokenizer from tensorflow with the poem dataset and it seems to be able to generate sentences with symbols.( I didn't use the shortstory dataset because it takes too long to train)
+
+For word based model, here is an example poem generated with the model:
+
+Once upon a time and gone to rot forgot,
+stay but nothing here are a rags of me.
+my soul did frame, along the gleaming water guided the cold,
+i look into your stamped his dreams all above the other woman with your along the feet of air and summer or in his bronze horse and raw meat weighs all former pleasaunce and delights,
+hee breaketh his pipe in peeces,
+and casteth him selfe to the ground.
+air,
+a night and the bronze eyes,
+and the woman in the underground,
+whence trees,
+or hankering men . . . to snarl and kill . .
+
 
