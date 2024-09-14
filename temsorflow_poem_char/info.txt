@@ -1,1 +1,86 @@
+This folder contains a char based text generation model used LSTM layer with tensorflow following tutorial: https://www.youtube.com/watch?v=QM5XDc4NQJo&t=1508s,
+the dataset is downloaded from :https://huggingface.co/datasets/Ozziey/poems_dataset
+poems generated with seed="Once upon a time":
 
+-EPOCH=5:
+Once upon a time a child,
+that she said earth be love,
+to have shall of the gardering wing
+and the stand of the weared sound
+that thou shall in the riverent could of all heart of my break of the life.
+
+we all to the fath to the ware and fore,
+for the garrows the contrise
+to be do consigring friends and the bours
+and thing in the sunder love,
+who do the stare and then to the speaker
+then i said as souls, and words the falling dark
+the miss and sun, i seek your are not my lend.
+
+i could the dound ears,
+to she bare in the down to white so while
+of the wind and the want seek
+hours of the wind,
+from the wanting of white feet,
+and to for me, and in the winding in the staring stare the brass
+which to the fling, and then ungent,
+that who there are bare and tough,
+that forget and the bearing or all to the precenter
+and to the bours of the dound wind in the read wind
+when the tright, the poor still new the rest and courtent d
+
+-EPOCH=8:
+Once upon a time.
+the world of the wind strainting his to the dust
+the sea-was you and stars of me both on god,
+by the store she may me leaves,
+or will the mouth to more ment
+for the bough of the tain.
+
+i caudderness bears, the name and the tell easy.
+
+the silvery in the story beart
+the starved hair to the stars
+and her was be the pain all the sea-stars,
+and i deciesy the straide and delight
+of love is the living story by the torn a turn,
+and all the sould in the sunfant licked her lies
+
+who love and so to they, and delight
+to more the country stray, where the statrich and the to the story and my black
+on first in the mouthed blows and did,
+nor the turned to the coldent, and the straide,
+the mountiners and blood.
+
+but dead the starved and the first be glow
+on the silvery blear the stame more my long,
+
+-EPOCH=10:
+Once upon a time
+and the dawn her passed and cant
+to the soul of lacted me thee in the cost,
+the heart all men for the words to mold.
+
+i that the cante with the heavenly part
+who holy and strange and in me the spring.
+
+i could the brid and all the dage with beamon sailing in the heart
+and the earth we was they devile are day
+as it is for the stares
+of words of the pate had with thee
+in the shadow wooden spread and the story
+and the wanted to the day, i can heart
+and can and the braste and canna the shadows.
+
+the daw that blood, the blood of the tooks in the morner,
+cloud to the cante the every were stones
+and in the rain of the reeded, and was the read the shadow the trust back.
+
+i was and the read to the sturets and blood,
+and upon the sair to the slow to seek;
+and as the rain when it is a blood,
+we and leart to feel the pooth bees the shadow?
+the aneved out of the wind,
+beside the emperned me love as the veir case
+to the call thee thee, so sleeve to see,
+the dark midnow man of the shadow their close
