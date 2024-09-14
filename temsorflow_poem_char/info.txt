@@ -1,5 +1,9 @@
 This folder contains a char based text generation model used LSTM layer with tensorflow following tutorial: https://www.youtube.com/watch?v=QM5XDc4NQJo&t=1508s,
-the dataset is downloaded from :https://huggingface.co/datasets/Ozziey/poems_dataset
+
+The dataset is downloaded from :https://huggingface.co/datasets/Ozziey/poems_dataset
+
+A modification I compare to original tut was that I added a callback that prints generated text after each epoch.
+
 poems generated with seed="Once upon a time":
 
 -EPOCH=5:
