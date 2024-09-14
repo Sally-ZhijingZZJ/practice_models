@@ -1,1 +1,5 @@
+This folder contains a char level text generation model with torch followed tutorial:https://machinelearningmastery.com/text-generation-with-lstm-in-pytorch/, with dataset I created on my own(I can only find the script I used for getting stories for Lovecraft, the one for Poe might be accidentally deleted)
+
+For this model, to save training time, I only used a small portion of the data to train.
+I tried to use different set up for layers of nueral network(as the commented line in the model file), also tried to do word level text generation with same way of processing data(n gram next word prediction) and tried out with different layers, but all of them produces repeating words.
 
